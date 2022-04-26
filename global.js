@@ -8,6 +8,7 @@ const anotherf=()=>{
   console.log(hello);
   console.log(world);
   console.log(helloWorld);
+  console.log("+++++++");
 
 }
 anotherf();
